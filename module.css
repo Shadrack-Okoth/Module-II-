@@ -78,10 +78,11 @@ margin-top: 20px;
 overflow-x: hidden;}
 .body{
     width: fit-content;}
-}
-#three{
+   #three{
 width:50%;
-} 
+}  
+}
+
 @media (max-width: 255px){
 h2 {
     width: 100%;}}
