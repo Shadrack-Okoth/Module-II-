@@ -52,22 +52,22 @@ p{
     .sushi{
         grid-column: span 2;
     }
-
+#three{
+width:14%;
+} 
 }
 @media (max-width: 767px){
     .body{
         display: block;
-       #three{
-width:15%;
-} 
-        
-    }
+        }
     
     .chicken{
         padding:10px ;
         margin-top: 0px;
     }
-    
+    #three{
+width:30%;
+} 
 .beef,.sushi{
 margin-top: 20px;
 }}
