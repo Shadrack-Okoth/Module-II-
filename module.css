@@ -57,7 +57,9 @@ p{
 @media (max-width: 767px){
     .body{
         display: block;
-        
+       #three{
+width:15%;
+} 
         
     }
     
